@@ -114,6 +114,7 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 - [Netlify](https://netlify.com) - Platform to build, deploy, and host your front-end applications.
 - [Kinsta](https://kinsta.com) - Create and deploy web applications and databases in minutes.
 - [Prisma Compute](https://www.prisma.io/compute) - Hosts Next.js, Node.js and Bun apps next to Prisma Postgres, with 1M free requests per month.
+- [Light Cloud](https://light-cloud.com) - Deploys Next.js apps from Git with scale to zero and a preview URL per branch, with $1 of usage included each month on the free plan.
 
 ## Documentation
 
